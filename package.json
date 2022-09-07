@@ -1,6 +1,6 @@
 {
   "name": "react-fastest-validator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React hook for validating forms or inputs, is an adaptation of the fastest-validation library.",
   "main": "useFastestValidator.js",
   "repository": "https://github.com/LeoCaprile/react-fastest-validator",
