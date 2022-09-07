@@ -15,7 +15,9 @@ yarn add react-fastest-validator
 
 ## Usage
 ---------
-### Validate
+***To use this library you need to have reactJS library installed in your app.***
+
+## Validate
 
 The validation is maked by a hook, so in order to validate anything we need to import the hook.
 And we use the hook as shows as following.
@@ -54,5 +56,26 @@ function App() {
 }
 ```
 
-to see more information about the usage of fastest-validator [see their docs](https://www.npmjs.com/package/fastest-validator)
+to see more information about the usage of fastest-validator please, [see their docs](https://www.npmjs.com/package/fastest-validator)
+
+
+## Contributions
+-----
+Please send pull requests improving the usage and fixing bugs, improving documentation and providing better examples, or providing some tests, because these things are important.
+
+## License
+-----
+react-fastest-validator is available under the MIT license.
+
+## Thanks to
+-----
+IceBob for making the awesome library that this library is based on!
+### Contact of icebob
+<br>
+<a href="https://github.com/icebob"><img src="https://camo.githubusercontent.com/20326987bc00226b51e448b4fa1421343ff4312d72dd2e389f6d13bb48442d2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d696365626f622d677265656e2e737667"></a>
+
+<a href="https://twitter.com/Icebobcsi"><img src="https://camo.githubusercontent.com/66b0eed21089eed19835ca9aa08c9ad0efd9e0fe425addcf1dff999510b76fe1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d496365626f626373692d626c75652e737667"></a>
+
+
+
 
